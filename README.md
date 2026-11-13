@@ -15,8 +15,8 @@ Everything happens at runtime. No game files are modified, and uninstalling invo
 - [Features](##Features)
 - [What the plugin does and does not do](#What-the-plugin-does-and-does-not-do)
 - [How to use](#How-to-use)
-- [Modding requirements and install (for users)](#Modding-requirements-and-install-(for-users))
-- [Build requirements (for developers)](#Build-requirements-(for-developers))
+- [Modding requirements and install (for users)](#Modding-requirements-and-install-for-users)
+- [Build requirements (for developers)](#Build-requirements-for-developers)
 - [Support me](#Support-me)
 - [License](#License)
 
