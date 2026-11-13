@@ -12,13 +12,13 @@ Everything happens at runtime. No game files are modified, and uninstalling invo
 
 ## Table of contents
 
-- [Features](https://claude.ai/chat/e5cc8fec-6ada-467a-aceb-02cde57e791d#features)
-- [What the plugin does and does not do](https://claude.ai/chat/e5cc8fec-6ada-467a-aceb-02cde57e791d#what-the-plugin-does-and-does-not-do)
-- [How to use](https://claude.ai/chat/e5cc8fec-6ada-467a-aceb-02cde57e791d#how-to-use)
-- [Modding requirements and install (for users)](https://claude.ai/chat/e5cc8fec-6ada-467a-aceb-02cde57e791d#modding-requirements-and-install-for-users)
-- [Build requirements (for developers)](https://claude.ai/chat/e5cc8fec-6ada-467a-aceb-02cde57e791d#build-requirements-for-developers)
-- [Support me](https://claude.ai/chat/e5cc8fec-6ada-467a-aceb-02cde57e791d#support-me)
-- [License](https://claude.ai/chat/e5cc8fec-6ada-467a-aceb-02cde57e791d#license)
+- [Features](##Features)
+- [What the plugin does and does not do](#What-the-plugin-does-and-does-not-do)
+- [How to use](#How-to-use)
+- [Modding requirements and install (for users)](#Modding-requirements-and-install-(for-users))
+- [Build requirements (for developers)](#Build-requirements-(for-developers))
+- [Support me](#Support-me)
+- [License](#Cicense)
 
 ---
 
